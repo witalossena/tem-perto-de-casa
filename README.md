@@ -5,9 +5,18 @@ Este projeto foi desenvolvido com o intuito de estudo e de criar uma plataforma 
 
 ## Tecnologias usadas neste projeto
 
-* React
+* React com Hooks
 * Redux
 * Material-ui
+
+## Prints do projeto
+
+![Imgur](https://i.imgur.com/QMfHbiP.png)
+
+![Imgur](https://i.imgur.com/KFPKCyz.png)
+
+![Imgur](https://i.imgur.com/5VopZSh.png)
+
 
 ## Scripts
 
