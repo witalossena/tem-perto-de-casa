@@ -12,15 +12,15 @@ Este projeto foi desenvolvido com o intuito de estudo e de criar uma plataforma 
 
 ## Prints do projeto
 
-![tem perto de casa homepage](https://i.imgur.com/5VopZShl.png?1)
+![tem perto de casa homepage](https://i.imgur.com/5VopZSh.png?1)
 
-![tem perto de casa storepage](https://i.imgur.com/QMfHbiPl.png)
+![tem perto de casa storepage](https://i.imgur.com/QMfHbiP.png)
 
 ![tem perto de casa cartpage](https://i.imgur.com/KFPKCyz.png)
 
-![tem perto de casa Register page](https://i.imgur.com/2iGpfZvl.png)
+![tem perto de casa Register page](https://i.imgur.com/2iGpfZv.png)
 
-![tem perto de casa dashboard](https://i.imgur.com/Qia0H3Ql.png)
+![tem perto de casa dashboard](https://i.imgur.com/Qia0H3Q.png)
 
 
 ## Scripts
