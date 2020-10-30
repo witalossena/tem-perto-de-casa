@@ -1,11 +1,12 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido com o intuito de estudo e de criar uma plataforma onde lojistas donos pudessem atender seus clientes e os clientes realizarem pedidos rapidos e sem burocracia utilizando o whatsAPP.
+Este projeto foi desenvolvido com o intuito de estudo e de criar uma plataforma onde lojistas pudessem atender seus clientes e os clientes realizarem pedidos rapidos e sem burocracia utilizando o whatsAPP.
 
 ## Tecnologias usadas neste projeto
 
-* React com Hooks
+* React
+* React-hooks
 * Redux
 * Material-ui
 
