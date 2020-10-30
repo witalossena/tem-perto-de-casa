@@ -27,7 +27,7 @@ Este projeto foi desenvolvido com o intuito de estudo e de criar uma plataforma 
 
 No diretório do projeto você pode rodar:
 
-### `npm start`
+### `npm install` & `npm start`
 
 Para rodar o APP em modo de desenvolvimento.<br />
 Abra [http://localhost:3000](http://localhost:3000) para ver no navegador.
