@@ -16,7 +16,7 @@ Este projeto foi desenvolvido com o intuito de estudo e de criar uma plataforma 
 
 ![tem perto de casa storepage](https://i.imgur.com/QMfHbiPl.png)
 
-![tem perto de casa cartpage](https://i.imgur.com/KFPKCyzl.png)
+![tem perto de casa cartpage](https://i.imgur.com/KFPKCyz.png)
 
 ![tem perto de casa Register page](https://i.imgur.com/2iGpfZvl.png)
 
