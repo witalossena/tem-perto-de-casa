@@ -22,6 +22,8 @@
 backEnd
 .env
 
+diagramas.drawio
+
 
 npm-debug.log*
 yarn-debug.log*
