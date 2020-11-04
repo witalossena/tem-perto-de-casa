@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+.vscode
+
 # testing
 /coverage
 
@@ -17,8 +19,9 @@
 .env.development.local
 .env.test.local
 .env.production.local
-/backEnd
+backEnd
 .env
+
 
 npm-debug.log*
 yarn-debug.log*
